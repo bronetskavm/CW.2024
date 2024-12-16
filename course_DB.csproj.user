@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\University\3-Курс\Бази даних\course_DB\course_DB\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Frm_ActionOnProviders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_AddItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_AllZvitsStatics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_DelivAddItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_DelivDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Deliverys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_MainTableUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Providers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_ProvidersDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Scaner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_StorageDelete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Storages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_StorageUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_ViewZvit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Frm_Zvits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

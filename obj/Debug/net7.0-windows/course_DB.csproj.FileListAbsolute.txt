@@ -1,0 +1,162 @@
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.AssemblyReference.cache
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.GenerateResource.cache
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfoInputs.cache
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfo.cs
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.CoreCompileInputs.cache
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_LogIn.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Main.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.exe
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.deps.json
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.runtimeconfig.json
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.pdb
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.CopyComplete
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\refint\course_DB.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.pdb
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.genruntimeconfig.cache
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\ref\course_DB.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Регістрація.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AddItems.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ActionOnProviders.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Providers.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\zxing.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\ZXing.Windows.Compatibility.dll
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Scaner.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Deliverys.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivAddItems.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivDelete.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ProvidersDelete.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Storages.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageDelete.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageUpdate.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Zvits.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ViewZvit.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AllZvitsStatics.resources
+D:\University\3-Курс\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_MainTableUpdate.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.exe
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.deps.json
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.runtimeconfig.json
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.pdb
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\zxing.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\ZXing.Windows.Compatibility.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.AssemblyReference.cache
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ActionOnProviders.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AddItems.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AllZvitsStatics.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivAddItems.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivDelete.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Deliverys.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_LogIn.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Main.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_MainTableUpdate.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Providers.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ProvidersDelete.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Регістрація.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Scaner.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageDelete.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Storages.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageUpdate.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ViewZvit.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Zvits.resources
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.GenerateResource.cache
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfoInputs.cache
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfo.cs
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.CoreCompileInputs.cache
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.Up2Date
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\refint\course_DB.dll
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.pdb
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.genruntimeconfig.cache
+D:\University\3-Курс\5-семестр\Бази даних\course_DB\course_DB\obj\Debug\net7.0-windows\ref\course_DB.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.exe
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.deps.json
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.runtimeconfig.json
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.pdb
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\AForge.Video.DirectShow.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\zxing.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\ZXing.Windows.Compatibility.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.AssemblyReference.cache
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ActionOnProviders.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AddItems.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_AllZvitsStatics.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivAddItems.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_DelivDelete.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Deliverys.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_LogIn.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Main.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_MainTableUpdate.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Providers.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ProvidersDelete.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Регістрація.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Scaner.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageDelete.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Storages.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_StorageUpdate.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_ViewZvit.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.Frm_Zvits.resources
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.GenerateResource.cache
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfoInputs.cache
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.AssemblyInfo.cs
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.CoreCompileInputs.cache
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.csproj.Up2Date
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\refint\course_DB.dll
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.pdb
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\course_DB.genruntimeconfig.cache
+C:\Users\illya\OneDrive\Desktop\курсач\course_DB\course_DB\obj\Debug\net7.0-windows\ref\course_DB.dll

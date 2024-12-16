@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>course_DB</id>
+    <version>1.0.0</version>
+    <authors>course_DB</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="AForge" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="AForge.Video.DirectShow" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SQLite" version="1.0.118" exclude="Build,Analyzers" />
+        <dependency id="ZXing.Net" version="0.16.9" exclude="Build,Analyzers" />
+        <dependency id="ZXing.Net.Bindings.Windows.Compatibility" version="0.16.12" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.runtimeconfig.json" target="lib\net7.0-windows7.0\course_DB.runtimeconfig.json" />
+    <file src="D:\University\3-Курс\Бази даних\course_DB\course_DB\bin\Debug\net7.0-windows\course_DB.dll" target="lib\net7.0-windows7.0\course_DB.dll" />
+  </files>
+</package>
